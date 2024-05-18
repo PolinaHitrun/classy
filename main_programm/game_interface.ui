@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>668</width>
+    <width>659</width>
     <height>763</height>
    </rect>
   </property>
@@ -53,7 +53,7 @@
      <widget class="QLineEdit" name="lineEdit">
       <property name="font">
        <font>
-        <pointsize>24</pointsize>
+        <pointsize>16</pointsize>
        </font>
       </property>
       <property name="text">
@@ -72,7 +72,7 @@
          <x>0</x>
          <y>0</y>
          <width>607</width>
-         <height>419</height>
+         <height>429</height>
         </rect>
        </property>
        <widget class="QTextBrowser" name="textBrowser">
@@ -99,7 +99,7 @@
         </property>
         <property name="font">
          <font>
-          <pointsize>18</pointsize>
+          <pointsize>14</pointsize>
          </font>
         </property>
         <property name="text">
@@ -128,7 +128,7 @@
         </property>
         <property name="font">
          <font>
-          <pointsize>18</pointsize>
+          <pointsize>14</pointsize>
          </font>
         </property>
         <property name="text">
